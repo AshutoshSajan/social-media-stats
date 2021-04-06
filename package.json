@@ -8,8 +8,8 @@
     "clean": "rimraf dist/bundle/"
   },
   "dependencies": {
-    "axios": "^0.19.0",
     "bcrypt": "^5.0.0",
+    "axios": "^0.21.1",
     "chart.js": "^2.8.0",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
@@ -44,7 +44,7 @@
     "compression-webpack-plugin": "^3.0.0",
     "css-loader": "^2.1.1",
     "mini-css-extract-plugin": "^0.6.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "sass-loader": "^7.2.0",
     "terser-webpack-plugin": "^1.4.1",
     "webpack": "^4.39.1",
